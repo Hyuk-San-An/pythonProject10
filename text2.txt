@@ -2,4 +2,4 @@ hello text2
 
 commit1
 
-test for stash
+fetch test1
